@@ -1,6 +1,6 @@
 # temperature-service
 
-1. Download all programfiles and import the project in Intellij.
+1. Download all program files and import the project in Intellij.
 2. Run and test in Intellij without docker image
 3. open the browser and type http://localhost:8080/temperature?lat=43.66258321585993&lng=-79.39152689466948
 {"temperature":3400} will be appearing.
